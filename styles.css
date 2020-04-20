@@ -59,6 +59,14 @@ p{
 }
 
 
+@media (max-width: 600px) 
+{
+  .navbar-dark.bg-dark{
+     background-color: lightseagreen !important;
+   }
+ }
+
+
 
 /* =========================================================================================================== */
 /* Specifying the width of the image and also the border on the image when it is selected                      */
