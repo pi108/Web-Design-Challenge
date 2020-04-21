@@ -15,19 +15,19 @@ A folder called images, that contains 4 images, one for each of the relationship
 A CSS file called “styles.css” which is used by the 7 HTML files in this folder.
 <br>
 7 HTML files as follows:
-1. index.html: 
+index.html: 
 <br>
 This is the main html file that connects all the other files. This file can be seen at the following website:
 https://pi108.github.io/Web-Design-Challenge/
 <br>
-2. data.html: 
+data.html: 
 <br>
 This file contains the underlying data of the 546 cities that were analyzed for this project.
 <br>
-3. comparison.html:
+comparison.html:
 <br>
 This file contains a comparison of the 4 relationships on one single page.
 <br>
-4-7. 4 “visualization.html” files: 
+4 “visualization.html” files: 
 <br>
 These 4 files contain the in-depth analysis of each of the 4 relationships mentioned above.
