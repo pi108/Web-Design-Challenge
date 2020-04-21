@@ -35,16 +35,10 @@ These 4 files contain the in-depth analysis of each of the 4 relationships menti
 
 # Key Findings from our Analysis:
 ## Relationship between Latitude & Maximum Temperature:
-<br>
 There is a strong relationship between the Latitude and the Maximum Temperature observed in the 546 cities analyzed as part of this project. As we get closer to the equator (Latitude of 0 degrees) the Maximum Temperature gets higher (i.e. the weather becomes hotter). As we move away from the equator (Latitude of 0 degrees) the Maximum Temperature gets lower (i.e. the weather becomes cooler).
-<br>
 ## Relationship between Latitude & Humidity:
-<br>
 There is no significant relationship between the Latitude and the Humidity observed in the 546 cities analyzed as part of this project. Another way to state this, is that there is a very weak correlation between the Latitude and the Humidity observed. This also implies that we cannot predict the Humidity based on the Latitude of a given city.
-<br>
 ## Relationship between Latitude & Cloudiness:
 There is no significant relationship between the Latitude and the Cloudiness observed in the 546 cities analyzed as part of this project. Another way to state this, is that there is a very weak correlation between the Latitude and the Cloudiness observed. This also implies that we cannot predict the Cloudiness based on the Latitude of a given city.
-<br>
 ## Relationship between Latitude & Wind Speed:
 There is no significant relationship between the Latitude and the Wind Speed observed in the 546 cities analyzed as part of this project. Another way to state this, is that there is a very weak correlation between the Latitude and the Wind Speed observed. This also implies that we cannot predict the Wind Speed based on the Latitude of a given city.
-<br>
