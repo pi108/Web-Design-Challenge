@@ -32,3 +32,10 @@ This file contains a comparison of the 4 relationships on one single page.
 4 “visualization.html” files: 
 <br>
 These 4 files contain the in-depth analysis of each of the 4 relationships mentioned above.
+
+# KEY FINDINGS FROM OUR ANALYSIS:
+
+## Relationship between Latitude & Maximum Temperature:
+<br>
+There is a strong relationship between the Latitude and the Maximum Temperature observed in the 546 cities analyzed as part of this project. As we get closer to the equator (Latitude of 0 degrees) the Maximum Temperature gets higher (i.e. the weather becomes hotter). As we move away from the equator (Latitude of 0 degrees) the Maximum Temperature gets lower (i.e. the weather becomes cooler).
+
