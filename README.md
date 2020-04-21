@@ -15,7 +15,6 @@ A folder called images, that contains 4 images, one for each of the relationship
 A CSS file called “styles.css” which is used by the 7 HTML files in this folder.
 <br>
 7 HTML files as follows:
-<br>
 1. index.html: 
 <br>
 This is the main html file that connects all the other files. This file can be seen at the following website:
